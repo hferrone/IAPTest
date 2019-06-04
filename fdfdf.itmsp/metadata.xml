@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package version="software5.7" xmlns="http://apple.com/itunes/importer">
+  <provider>fdfdfd</provider>
+  <team_id>fdfdfd</team_id>
+  <software>
+    <vendor_id>fdfdf</vendor_id>
+    <software_metadata>
+      <in_app_purchases>
+        <in_app_purchase>
+          <product_id>consumable_status_boost_ios</product_id>
+          <reference_name>productIDConsumable_StatusBoost</reference_name>
+          <type>consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>0</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>Status Boost</title>
+              <description>Increased player speed</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>Screen Shot 2019-05-29 at 12.50.40 PM.png</file_name>
+            <size>186631</size>
+            <checksum>a01d920c317c0cf7d89d94053965386d</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+      </in_app_purchases>
+    </software_metadata>
+  </software>
+</package>
